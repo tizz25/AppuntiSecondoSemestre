@@ -6,4 +6,4 @@ Appunti relativi a
 - Calcolo Numerico
 - Elettronica digitale
 
-  // Costantemente aggiornati :)
+  
